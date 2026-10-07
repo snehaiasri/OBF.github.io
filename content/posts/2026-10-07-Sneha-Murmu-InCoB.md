@@ -1,6 +1,6 @@
 ---
 author: Sneha Murmu
-date: 2026-10-07 
+date: 2026-10-07
 category:
  - community
  - event-fellowship
